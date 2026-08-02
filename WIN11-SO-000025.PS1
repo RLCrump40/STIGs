@@ -1,13 +1,26 @@
+<#
+.SYNOPSIS
+    This PowerShell script renames the built-in guest account to a name other than 'guest.'
 
+.NOTES
+    Author          : Raiques Crump  
+    LinkedIn        : linkedin.com/in/raiqueslcrump/
+    GitHub          : github.com/RLCrump40
+    Date Created    : 2026-08-02
+    Last Modified   : 2026-08-02
+    Version         : 1R6
+    CVEs            : N/A
+    Plugin IDs      : N/A
+    STIG-ID         : WN11-AU-000025
+    Documentation   : https://stigaview.com/products/win11/v1r6/WN11-SO-000025/
 
+.TESTED ON
+    Date(s) Tested  : 
+    Tested By       : 
+    Systems Tested  : 
+    PowerShell Ver. : 
 
-
-
-
-
-
-
-
+.USAGE
 
 #Requires -RunAsAdministrator
  
