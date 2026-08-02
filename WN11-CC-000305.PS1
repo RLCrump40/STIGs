@@ -1,12 +1,28 @@
+<#
+.SYNOPSIS
+    This PowerShell script disables the indexing of encrypted files in Wiondows 11.
 
+.NOTES
+    Author          : Raiques Crump  
+    LinkedIn        : linkedin.com/in/raiqueslcrump/
+    GitHub          : github.com/RLCrump40
+    Date Created    : 2026-08-02
+    Last Modified   : 2026-08-02
+    Version         : 2R3
+    CVEs            : N/A
+    Plugin IDs      : N/A
+    STIG-ID         : WN11-CC-000305
+    Documentation   : https://stigaview.com/products/win11/v1r5/WN11-CC-000305/
 
+.TESTED ON
+    Date(s) Tested  : 
+    Tested By       : 
+    Systems Tested  : 
+    PowerShell Ver. : 
 
+.USAGE
 
-
-
-
-
- 
+>
 #Requires -RunAsAdministrator
  
 $RegPath      = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\Windows Search"
