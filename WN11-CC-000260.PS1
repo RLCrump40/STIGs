@@ -20,7 +20,7 @@
     Systems Tested  : 
     PowerShell Ver. : 
 
-
+.NOTES
     Run as Administrator. If a MaximumPINLength value already exists and
     is lower than this MinimumPINLength, Windows will fall back to
     default values for both - this script does not touch MaximumPINLength,
